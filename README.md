@@ -16,7 +16,7 @@ Relationship to Existing Repositories
 
 This project extends:
 
-https://github.com/richa-namballa/binaural-mss
+https://github.com/richa-namballa/binaural-mss and
 https://github.com/facebookresearch/demucs
 
 This repository does not redistribute code from Binaural-MSS or Demucs.

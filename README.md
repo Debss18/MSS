@@ -6,9 +6,9 @@ Overview
 
 This project fine-tunes a small HDemucs-style source separation model on binaural MUSDB-style mixtures using a composite loss consisting of:
 
-waveform reconstruction loss
-ITD-based spatial loss using GCC-PHAT
-four-stem separation: drums, bass, other, vocals
+-waveform reconstruction loss
+
+-ITD-based spatial loss using GCC-PHAT
 
 The goal is to improve spatial consistency and localization cues in separated binaural outputs.
 
@@ -22,8 +22,6 @@ https://github.com/facebookresearch/demucs
 This repository does not redistribute code from Binaural-MSS or Demucs.
 
 To run the scripts in this repository, first clone and set up the upstream Binaural-MSS repository and its dependencies.
-
-What This Repository Adds
 
 This repository contains only my extension code:
 

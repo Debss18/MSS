@@ -28,9 +28,15 @@ What This Repository Adds
 This repository contains only my extension code:
 
 src/itd_loss.py
+
 -GCC-PHAT-based ITD extraction and ITD loss
+
 src/composite_loss.py
+
 -Combined waveform + ITD-aware loss
+
 scripts/train_itd_hdemucs_musdb.py
+
 -Training modifications for ITD-aware HDemucs fine-tuning
+
 example training, inference, and evaluation commands
